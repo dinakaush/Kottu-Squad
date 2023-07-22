@@ -1,0 +1,23 @@
+.footer{
+  position:sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+}
+  
+  #fp {
+    background-color:#2f0404;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  #fimg{
+    padding: 10px;
+  }
+  
+  
